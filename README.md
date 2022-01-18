@@ -6,6 +6,10 @@
 	Hi there 👋  <br>
 	Welcome to my place! <br>
 	<b>Life is like a "Kim Ha Yeon!"</b> <br>
+	<div align=center>
+ <a href="https://www.instagram.com/h2_yeon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h2_yeon/"/></a>&nbsp	
+</div>
+	
 </div>
 
 <hr>
@@ -18,17 +22,28 @@
 	🌱I’m currently learning ...
 	<br>
 	<br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-	<br>
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Adobe%20Photoshop-#31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  	<br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+	
 </div>
 <br>
 
@@ -47,10 +62,6 @@
 	
 </div>
 	
-	
-
-
-
 
 <!--
 **kimhayeon00/kimhayeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
