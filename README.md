@@ -5,7 +5,6 @@
 <div align='center'>
 	Hi there 👋  <br>
 	Welcome to my place! <br>
-	<b>Life is like a "Kim Ha Yeon!"</b> <br>
 	<div align=center>
  <a href="https://www.instagram.com/h2_yeon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h2_yeon/"/></a>&nbsp	
 </div>
