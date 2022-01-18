@@ -27,6 +27,7 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 <br>
 
