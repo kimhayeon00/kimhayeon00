@@ -5,7 +5,7 @@
 <div align='center'>
 	Hi there 👋  <br>
 	Welcome to my place! <br>
-	<b>Life is like a "Let's go , Rats!"</b> <br>
+	<b>Life is like a "Kim Ha Yeon!"</b> <br>
 </div>
 
 <hr>
