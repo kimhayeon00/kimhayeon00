@@ -26,7 +26,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </div>
 <br>
 
